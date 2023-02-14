@@ -1,6 +1,7 @@
 # my file
 d2l-zh/
 .DS_Store
+.idea/
 
 
 # Byte-compiled / optimized / DLL files
